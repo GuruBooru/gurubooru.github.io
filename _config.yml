@@ -19,9 +19,9 @@ locale                   : "ko"
 title                    : "배울게 많은 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "aerain"
+name                     : "gurubooru"
 description              : "저는 배울게 많아요오"
-url                      : "https://sevenearl.github.io"
+url                      : "https://gurubooru.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "aerain"
+  name             : "gurubooru"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어리숙한 개발자"
+  bio              : "개발자"
   location         : "Seoul"
-  email            : "j40f893@gmail.com"
+  email            : "123gudehsdl@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:j40f893@gmail.com
+      url: mailto:123gudehsdl@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/aerain"
+      url: "https://github.com/gurubooru"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
